@@ -1,3 +1,4 @@
+
 package Ejercicio4;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -6,12 +7,14 @@ import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.Collections;
 
-//aqui tambien se testea el ejercicio5, para clonar este ejercicio 
-//pero sin los
-/*
- * comentarios
- */
 
+
+
+aabb
+
+noches
+
+dias
 public class Ejercicio4 {
 
     public static void desordenadas(){
@@ -23,7 +26,6 @@ public class Ejercicio4 {
             bw.write("Matilda"+"\n");
             bw.close();
         } catch (Exception e) {
-            // TODO: handle exception
         }
     }
 
@@ -46,7 +48,6 @@ public class Ejercicio4 {
             b1.close();
 
         } catch (Exception e) {
-            // TODO: handle exception
         }
         
 
@@ -69,7 +70,6 @@ public class Ejercicio4 {
             }
             bw.close();
         } catch (Exception e) {
-            // TODO: handle exception
         }
     }
 

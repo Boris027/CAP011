@@ -1,3 +1,4 @@
+/*holaa */
 package Ejercicio4;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -11,7 +12,11 @@ import java.util.Collections;
 /*
  * comentarios
  */
+aa/* */bb
 
+noches/*
+ * buenas
+ */dias
 public class Ejercicio4 {
 
     public static void desordenadas(){
